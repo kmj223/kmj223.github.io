@@ -1,7 +1,9 @@
-# main links
+﻿# main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "과거로 돌아가기"
+    url: https://kmj223j.github.github.io
+  - title: "about Page"
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
